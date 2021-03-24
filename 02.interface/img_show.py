@@ -9,3 +9,4 @@ if img is not None:
     cv2.destroyAllWindows() # 창 모두 닫기
 else:
     print('No image file.')
+    
