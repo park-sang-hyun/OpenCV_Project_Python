@@ -32,3 +32,5 @@
 
 + 3장: Numpy와 Matplotlib (p.61-104)
   + Numpy (이미지 처리와 관련된 각종 numpy 연산) [2021.03.29 ~ ]
+  + Matplotlib : plot 함수 [2021.04.01 ~ ]
+  + Matplotlib : color 함수
