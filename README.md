@@ -36,4 +36,9 @@
   + Matplotlib : color [2021.04.02 ~ ]
   + Matplotlib : style
   + Matplotlib : subplot 함수
-  + Matplotlib : 이미지 표시
+  + Matplotlib : 이미지 표시 [2021.04.03 ~ ]
+
+
+
++ 4장: 이미지 프로세싱 기초 (p.105-174)
+
