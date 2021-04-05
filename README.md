@@ -32,14 +32,11 @@
 
 + 3장: Numpy와 Matplotlib (p.61-104)
   + Numpy (이미지 처리와 관련된 각종 numpy 연산) [2021.03.29 ~ ]
-  + Matplotlib : plot 함수 [2021.04.01 ~ ]
-  + Matplotlib : color [2021.04.02 ~ ]
-  + Matplotlib : style
-  + Matplotlib : subplot 함수
-  + Matplotlib : 이미지 표시 [2021.04.03 ~ ]
+  + Matplotlib (plot, color, style, subplot, 이미지 표시) [2021.04.01 ~ ]
 
 
 
 + 4장: 이미지 프로세싱 기초 (p.105-174)
-  + 관심영역(ROI) 지정  [2021.04.04 ~ ]
+  + 관심영역(ROI) 지정 [2021.04.04 ~ ]
+  + 컬러 스페이스 (RGB, RGBA, HSV, YUV, 컬러 스페이스 변환)  [2021.04.05 ~ ]
 
